@@ -273,6 +273,18 @@ ul.posts .date {
     	-o-transition: all .3s linear;
     	transition: all .3s linear;
 }
+.categories-list-item-my-todo:visited{
+	/*
+	取消Todo点击下划线
+	 */
+	text-decoration: none;
+}
+.categories-list-item-my-todo:link{
+	/*
+	取消Todo点击下划线
+	 */
+	text-decoration: none;
+}
 .categories-list-item .my-badge{
 	font-size: 12px;
 	font-weight: bold;
