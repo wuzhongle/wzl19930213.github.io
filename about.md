@@ -14,7 +14,7 @@ title: "关于：About"
 ## 联系方式
 
 <p class="contact">
- <a href="https://github.com/LippiOuYang" title="Github联系我"><img src="https://github.com/wzl19930213" width="24" height="24" style="display:inline-block;vertical-align:middle"></a><br/>
+<a href="https://github.com/wzl19930213" title="Github联系我"><img src="http://www.github.com/favicon.ico" width="24" height="24" style="display:inline-block;vertical-align:middle"></a><br/>
  邮箱: dyzhonglewu@qq.com 
 </p>
 
