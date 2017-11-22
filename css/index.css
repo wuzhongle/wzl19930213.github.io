@@ -234,10 +234,36 @@ ul.posts .date {
 	-moz-transition:0.4s ease;
 	-o-transition:0.4s ease;*/
 }
+.categories-list-item-my-todo{
+	display: block;
+	padding:8px 15px;
+	border-bottom:1px solid #ddd;
+	font-size: 14px;
+	font-weight:bold
+
+	/*transition:0.4s ease;
+	-webkit-transition:0.4s ease;
+	-moz-transition:0.4s ease;
+	-o-transition:0.4s ease;*/
+}
+
 .categories-list-item:last-of-type{
 	border-bottom:none; 
 }
+.categories-list-item-my-todo:last-of-type{
+	border-bottom:none;
+}
 .categories-list-item:hover{
+	/*background-color: rgba(0,0,10,0.075);
+	color: #983;*/
+	 padding-left: 30px;
+   	 border-left: 15px solid #CE2323;
+
+    	-webkit-transition: all .3s linear;
+    	-o-transition: all .3s linear;
+    	transition: all .3s linear;
+}
+.categories-list-item-my-todo:hover{
 	/*background-color: rgba(0,0,10,0.075);
 	color: #983;*/
 	 padding-left: 30px;
